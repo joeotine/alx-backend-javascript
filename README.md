@@ -3,7 +3,7 @@
 1. ECMAScript 6 - ECMAScript 2015.
 2. Node.js and NPM
 
-## Project setup
+## PROJECT SETUP
 ```bash
 # Create a new node project
 npm init -y
@@ -219,5 +219,5 @@ chmod +x ./tests/101-main.js
 npm run dev ./tests/101-main.js
 ```
 
-# :man: Author and Credits.
+# :man: Author
 This project was done by [Joseph Otine](https://github.com/joeotine).
